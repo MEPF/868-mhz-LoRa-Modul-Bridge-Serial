@@ -1,1 +1,1 @@
-# 868mhz-LoRa-Modul-Bridge-Serial
+# 868 mhz-LoRa-Modul-Bridge-Serial
